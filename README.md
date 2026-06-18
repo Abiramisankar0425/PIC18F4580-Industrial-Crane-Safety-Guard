@@ -560,19 +560,7 @@ void lcd_set_cursor(unsigned char row,unsigned char col)
         lcd_command(0xC0 + col - 1);
 }
 
-The uploaded implementation includes:
 
-✓ ADC Load Monitoring
-✓ LCD Dashboard
-✓ Multi-State LEDs
-✓ Buzzer Warning System
-✓ Overload Protection
-✓ INT0 Emergency Interrupt
-✓ Collision Lockout
-✓ Reset Recovery Mechanism
-
-==================================================
-*/
 ```
 
 ---
