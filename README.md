@@ -139,8 +139,8 @@ This project implements:
 
 Add your schematic image here:
 
-```markdown
-![Industrial Crane Safety Guard](images/schematic.png)
+```
+![image alt](https://github.com/Abiramisankar0425/PIC18F4580-Industrial-Crane-Safety-Guard/blob/d7072a3e1c40d943deb521fc78ba998b95b9e279/crane.png)
 ```
 
 ---
