@@ -675,25 +675,6 @@ Verify:
 
 ---
 
-## 📁 Repository Structure
-
-```text
-PIC18F4580-Industrial-Crane-Safety-Guard
-│
-├── README.md
-├── crane_safety_guard.c
-├── crane_safety_guard.hex
-│
-├── Proteus
-│   └── Crane_Safety_Guard.pdsprj
-│
-└── images
-    ├── schematic.png
-    ├── simulation.png
-    └── lcd_output.png
-```
-
----
 
 ## 📄 License
 
